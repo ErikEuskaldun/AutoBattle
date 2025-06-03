@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98f25d027e32f99438fe6cd71d481463, type: 3}
+  m_Name: 002 Snap
+  m_EditorClassIdentifier: 
+  id: 2
+  creatureName: Snap
+  type: 3
+  range: 1
+  speed: 70
+  ultChargeNeeded: 0
+  attackSpeed: 20
+  damage: 110
+  hp: 1200
+  sprite: {fileID: 21300000, guid: 290ac19d8e26b3f49ba9e877fd2f1041, type: 3}
+  phase: 2
+  rarity: 1
+  evolution: {fileID: 11400000, guid: 44c14cef4dd37214a892c3ac1d3ba3da, type: 2}
+  basicMove: {fileID: 11400000, guid: 40df855c84ea0da4ab5c271bfe18f64b, type: 2}

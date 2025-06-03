@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcb58a6dfe15f9c46bc8b90a237cb25b, type: 3}
+  m_Name: 000 Test
+  m_EditorClassIdentifier: 
+  damage: 1
+  speed: 2
+  innerSprite: 1
+  outerSprite: 0
+  useCreatureColor: 0
+  innerColor: {r: 0.22766048, g: 0.8962264, b: 0, a: 1}
+  outerColor: {r: 0.4292453, g: 0.75849557, b: 1, a: 1}
