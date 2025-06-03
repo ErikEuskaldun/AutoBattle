@@ -76,7 +76,7 @@ public class PlayerCreature : Creature
     {
         if (bench.Creature == null) //HAVE TO END HERE
         {
-            //if(GameElements.GetCreatures(Team.Player).Count == 1) To mantain at least 1
+            //if(GameElements.GetCreatures(Team.Player).Count == 1) To mantain at least 1 
             if (IsBenched)
                 UnBench();
             bench.BenchCreature(this);
